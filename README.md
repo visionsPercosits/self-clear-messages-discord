@@ -13,4 +13,8 @@
    </ol>
    <h2>Disclaimer</h2>
    <p>This script is provided as-is and is intended for educational purposes only. The use of Discord self-bots is against Discord's Terms of Service and can result in account suspension or termination. Use this script at your own risk.</p>
+    <hr>
+    <br>
+    <h2> Showcase of the script </h2>
+    <img src='https://cdn.upload.systems/uploads/DPy3Zpjz.gif'>
   </body>
